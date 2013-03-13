@@ -2,6 +2,7 @@
 return array(
     'modules' => array(
         'Application',
+
         'Album', //this line is added
         'ZhelyanGuglev',
         'AlexanderAlexandrov',                  // <-- Add this line
@@ -11,11 +12,18 @@ return array(
         'StudentBg',
         'VictorAtanassov',                  // <-- Add this line
         'Elena',                  // <-- Add this line
-        'MargaritaKrushkova',
-    'IvelinaVelcheva',
-    'MihaelaKerkenekova',
-    'MartinManov',
-	'MarinaGatova',
+        'AntonTonev',
+        // 'MargaritaKrushkova',
+        'StoyanAtanasoff',
+		'IvelinaVelcheva',
+		'MihaelaKerkenekova',
+		'MartinManov',
+		'MarinaGatova',
+		'PaolaShumanova',
+		'NikoletaPoibrenska',
+		'PetyaStavarova',
+		// 'VanyaDimitrova',
+		'ElitsaNedyalkova',
     ),
     'module_listener_options' => array(
         'config_glob_paths'    => array(
